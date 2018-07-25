@@ -19,7 +19,9 @@
     "freeport-promise": "^1.1.0",
     "is-local-ip": "^1.1.0",
     "my-ip": "^1.1.1",
+    "named-regexp": "^0.1.1",
     "public-ip": "^2.4.0",
+    "require-dir": "^1.0.0",
     "srcds-rcon": "^2.2.1"
   }
 }
