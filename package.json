@@ -1,5 +1,5 @@
 {
-  "name": "server-controller",
+  "name": "srcds-rcon-controller",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
